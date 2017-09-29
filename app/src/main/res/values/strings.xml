@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">充电监控测试</string>
+    <string name="menu_about">关于</string>
+    <string name="main_btn_starttext">开始监控</string>
+    <string name="menu_result">测试结果</string>
+    <string name="result_select">结果列表</string>
+    <string name="result_empty">无测试结果</string>
+    <string name="result_name">测试结果</string>
+    <string name="main_tv_ism">满电后是否继续监控</string>
+</resources>
